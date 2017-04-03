@@ -1,0 +1,32 @@
+{
+  "name": "google-translate-languges-list",
+  "version": "1.0.0",
+  "description": "google translate languages list",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuoua/google-translate-languges-list.git"
+  },
+  "keywords": [
+    "google",
+    "translate",
+    "languages",
+    "list"
+  ],
+  "author": "anuoua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anuoua/google-translate-languges-list/issues"
+  },
+  "homepage": "https://github.com/anuoua/google-translate-languges-list#readme",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
